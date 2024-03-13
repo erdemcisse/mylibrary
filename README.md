@@ -7,7 +7,7 @@
 I am excited to release version 2.0 of my Library Management System built with Streamlit! 🎉
 
 ### New Features & Improvements
-- **Redesigned User Interface**: We've overhauled the UI to make it cleaner, more organized, and user-friendly.
+- **Redesigned User Interface**: I've overhauled the UI to make it cleaner, more organized, and user-friendly.
   - New books are now added through a sidebar, making the main page focused on your library's catalog.
   - Book deletion has been moved to an expandable section that you can open as needed.
   - Visual enhancements like headers, emojis, and styled tables make the app more pleasant to use.
